@@ -1,0 +1,1081 @@
+https://pastebin.com/HYZSRSh5 > source code dari tutor
+
+index.js --> https://pastebin.com/HYZSRSh5
+package.json --> https://pastebin.com/Zj685TcQ
+.env --> https://pastebin.com/3mA7W09Z
+
+https://drive.google.com/drive/folders/1wblElzH6be1dMOQqz-LIm8RZQLZVLZAn?usp=drive_link > record
+
+Andreas Santoso
+18.55
+Halo kelas!
+Kita akan mulai di 19.05 ya
+keep
+Disematkan
+Andreas Santoso
+19.03
+https://bit.ly/absenmajubarengai
+keep
+Disematkan
+Andreas Santoso
+19.17
+https://nodejs.org/en/download
+keep
+Disematkan
+Andreas Santoso
+19.23
+https://ai.google.dev/gemini-api/docs
+keep
+Disematkan
+Andreas Santoso
+19.25
+https://aistudio.google.com/apikey
+keep
+Disematkan
+Buan Gultom
+19.41
+mas andreas, saya rasa lanjut saja.. yg ketinggalan nanti bisa tonton ulang rekamanannya. tetap pelan tapi ini bukan tutor 1 on 1
+Rizky Fahrureza
+19.41
+ctrl + s dlu, nanti kasih nama aja .env, terus nanti dibuat lah itu file nya
+
+sisanya tinggal ketik GEMINI_API_KEY=api key here
+Wilsen Grivin Mokodaser
+19.41
+kalo ketinggalan, nanti cek lagi rekaman kelasnya...
+Rizky Fahrureza
+19.41
+atau bisa lewat terminal ketik 
+
+touch .env
+Salam Budiarto
+19.41
+Betul mas Buan, supaya sesuai rundown saja, karena non tech jika explain from zero mungkin berbeda sesi saja
+Buan Gultom
+19.41
+mas andreas lanjut dulu mas
+nanti yg non tech bisa lihat ulang rekamannya
+Wilsen Grivin Mokodaser
+19.42
+nanti ada rekamannya, kalo ketinggalan nanti nonton aja lagi
+Bintang Akbar
+19.42
+API mas
+Salam Budiarto
+19.42
+This is a free course, not a private course dude
+Andreas Santoso
+19.42
+GEMINI_API_KEY
+Rizky Fahrureza
+19.42
+lol
+Almoir Morteza
+19.42
+sabar sabar wkwk
+Ibnu Setiawan
+19.42
+sabar kaka kaka
+Buan Gultom
+19.42
+udah keburu habis kopinya nih andreas
+Bintang Akbar
+19.42
+GEMINI_API_KEY
+Wilsen Grivin Mokodaser
+19.43
+nanti ada rekamannya
+Salam Budiarto
+19.43
+Dear team hacktiv-8 harus ada screening deh diawal, supaya non tech ter-filter
+Haris ais
+19.43
+suara instrukturnya kyk penyiar radio...  haha
+Waine Nath
+19.43
+Key nya yg mana bang
+Karis S
+19.43
+GEMINI_API_KEY = 'xxx'
+
+atau GEMINI_API_KEY= xxx
+Hendry Nugroho
+19.43
+nanti coba catchup dari rekaman kak..
+Buan Gultom
+19.43
+radio sonora
+Kurniawan
+19.43
+wkkwkw
+Salam Budiarto
+19.43
+Softspoken dan Sabar bgt Mentornya ✨
+Damar Fadhil Widyadhana
+19.43
+Hi, I’m transcribing this call with my Tactiq AI Extension: https://tactiq.io/r/transcribing
+Haris ais
+19.43
+keren
+Rizky Fahrureza
+19.43
+wkwk
+Rizal F Ferryadi
+19.43
+luar biasa mentor kita kali ini hahahah
+Derivat Brilian
+19.43
+damar pake ai
+Achmad Hanafy
+19.43
+sabar sekali mentor kita wkwk
+Untung Subagyo
+19.43
+Iya, sabar banget, masyaAllah
+Buan Gultom
+19.43
+kalo ane jadi gurunya udah habis penghapus papan melayang
+Ibnu Setiawan
+19.43
+sehat sehat mas andreas
+Kurniawan
+19.44
+wkwkw
+Yaqubhadi01
+19.44
+duh bisa beres jam 11 malem nih
+Untung Subagyo
+19.44
+wakawakawaka
+Hendry Nugroho
+19.44
+ctrl+s
+Rizky Fahrureza
+19.44
+sehat selalu mas andreas
+Rizal F Ferryadi
+19.44
+gak kebayang dari 144 orang ini di pandu satu" hahahaha
+Bintang Akbar
+19.44
+kayak buat file .env tadi mas
+Bagus Rizky
+19.44
+kalian gemes ya wkwk
+Rizky Fahrureza
+19.44
+jadikan saya private student mu wkwk
+Yaqubhadi01
+19.44
+lanjut mas
+Salam Budiarto
+19.44
+Bgt gemesnya
+Agami
+19.44
+mas andreas ukuran kaki berapa mas
+SVENRADUX
+19.44
+buru2 pada mau kemana, masih sore ini ygy
+Buan Gultom
+19.44
+ya oloh cobaan apa malam ini
+Kurniawan
+19.44
+kalo 400 orang kek sesi pertama meledak ini
+M. Almuhaimin
+19.44
+sesuai gajinya... adem pak
+Salam Budiarto
+19.44
+Soalnya 142 : 1
+Wilsen Grivin Mokodaser
+19.44
+itu sudah ke save otomatis
+Achmad Hanafy
+19.44
+tutorial vscode wkwk
+Almoir Morteza
+19.44
+sehat selalu mas andreas
+Buan Gultom
+19.44
+jgn sampe kebaw mimpi
+Naufal Farraz Alghiffari
+19.44
+sesi private jir ini dia
+agus siswanto
+19.44
+udah jam 10
+Natalia Evelin Susanto (Lily)
+19.44
+Lanjut ajaa mas
+Sulung Emin
+19.44
+minta keynya lagi man teman.
+Yaqubhadi01
+19.44
+lanjut
+Achmad Yani
+19.44
+sudah Kak
+Mohamad Yuan Wahyu Pradana
+19.44
+Semangat bang ndre
+Buan Gultom
+19.44
+dah lah.. nanti saya lihat rekamannya aja yak..
+mulai mules
+Almoir Morteza
+19.44
+145 menotr + 1 student
+Achmad Yani
+19.45
+Layar kakak Andreas saja yang ditampilkan yang lain nonton dahulu saja
+Agami
+19.45
+sep yang bener aja lah
+Naufal Farraz Alghiffari
+19.45
+ini ada tugasnya ga ya pas akhir sesi?
+Bagus Rizky
+19.45
+ada
+Rahman Ardian
+19.45
+Semangar mas
+Rizky Fahrureza
+19.45
+ada, disuruh ngumpulin repo github nya
+SVENRADUX
+19.45
+stop yapping ygy
+Achmad Yani
+19.46
+ini bisa pakai API Key punya Kak Andreas dahulu ya
+Setuju
+Kurniawan
+19.46
+aman
+Yaqubhadi01
+19.46
+sip
+Denis Schuerman
+19.46
+Siip
+Wilsen Grivin Mokodaser
+19.46
+yg ketinggalan nanti nonton lagi rekamannya...
+M. Almuhaimin
+19.46
+siap kak
+Tiara Amanda Agustin
+19.46
+boleh kak
+Sulung Emin
+19.46
+yasudahlah nyimak aja.
+Naufal Farraz Alghiffari
+19.46
+aman mas aman bgt
+hengQ
+19.46
+sabar betul mentor nya. joss
+Asep Awaludin
+19.46
+Ka liat isi fil e.env
+Achmad Yani
+19.46
+Kalo begitu buat dahulu saya
+Tiara Amanda Agustin
+19.46
+file .env
+GEMINI_API_KEY=AIzaSyAHUdaljOrFFBDr0bfEWRckfFwDX8Do2q8
+
+file index.js
+import { GoogleGenAI } from "@google/genai";
+
+const ai = new GoogleGenAI({});
+
+async function main() {
+  const response = await ai.models.generateContent({
+    model: "gemini-2.5-flash",
+    contents: "Explain how AI works in a few words",
+  });
+  console.log(response.text);
+}
+
+await main();
+mokhamad azriel
+19.47
+Jangan cepet' santai saja kak.😁
+Rizky Fahrureza
+19.47
+file .env isinya
+
+GEMINI_API_KEY=api key here
+Samsul Dev
+19.47
+bang, api key nya bayar ga
+Asep Awaludin
+19.47
+ok aman
+thanks
+Wilsen Grivin Mokodaser
+19.47
+gratiiiss
+Irsyad Tillah
+19.47
+free
+Kurniawan
+19.47
+awam sama github repo duh ga pernah nyentuh malah
+Hendry Nugroho
+19.47
+api key pake gmail sendiri. free tapi limited jadi nga disarankan share
+Waine Nath
+19.48
+Bang api key nya bagimana cara dapatnya
+Wilsen Grivin Mokodaser
+19.48
+nonton rekaman aja
+M. Almuhaimin
+19.48
+bikin chatbox kak ?
+Haris ais
+19.48
+serius ini... kyk denger radio..... bagus suaranya... hahaha
+Rizky Fahrureza
+19.48
+buat tugas nanti .env tinggal .gitignore aja kan?
+Naufal Farraz Alghiffari
+19.49
+iya
+Putra
+19.49
+POV Tomlembong jd softdev
+Sulung Emin
+19.50
+tapi nanati tugasnya gmna klo ketinggalan gini.
+Wilsen Grivin Mokodaser
+19.50
+nnti nonton rekaman
+Haris ais
+19.50
+powershell mirip2 command lilnux
+Hendry Nugroho
+19.50
+bener bgt lagi vibes suaranya tom lembong
+Damar Fadhil Widyadhana
+19.51
+Hi, I’m transcribing this call with my Tactiq AI Extension: https://tactiq.io/r/transcribing
+Derivat Brilian
+19.52
+compiler yang bagus apa bang
+ngebug punya saya
+MUHAMMAD REVIN
+19.52
+maaf baru masuk, yang ketinggalan, tugas nya gimana ya, hari ini atau bisa besok ya ka
+Swiss Teddy
+19.53
+maaf baru masuk, yang ketinggalan, tugas nya gimana ya, hari ini atau bisa besok ya ka
+Muhammad Syaamil Muzhaffar
+19.54
+Saya sudah install via msi installer kak untuk update node.js
+Aiiiooo
+19.55
+maaf ada link nya pa
+MUHAMMAD REVIN
+19.55
+oke trima kasih ka
+Asep Awaludin
+19.55
+sy pake gitbush bisa keluar responnya, tp kalo pake terminal vscode di foldernya kok eror ya?
+Salam Budiarto
+19.56
+Bro... don't distract me mentor about not important ask
+Use the rec vid
+Asep Awaludin
+19.57
+ok
+Andreas Santoso
+19.58
+npm install express multer dotenv cors @google/genai
+keep
+Disematkan
+Dodi Yarpika
+19.59
+keluar nya File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running 
+scripts is disabled on this system. For more information. kenapa ya?
+Tiara Amanda Agustin
+19.59
+sama kak saya juga gitu kenapa ya?
+Wilsen Grivin Mokodaser
+20.02
+npm error syscall write
+npm error errno -4083
+npm error EBADF: bad file descriptor, write
+npm error A complete log of this run can be found in: C:\Users\Wilsen Mokodaser\AppData\Local\npm-cache\_logs\2025-09-17T13_01_05_853Z-debug-0.log
+kalo error waktu install express gmna bang?
+mokhamad azriel
+20.02
+Saya garis akhirnya node.js v22.14.0 kenapa iya
+Mohamad Yuan Wahyu Pradana
+20.02
+Setelah import dotenv . Cek di index msh error
+Haris ais
+20.02
+editornya di split kak... biar keliatan semua di editor
+Yuki Resky Damanik
+20.02
+error mas : (node:24036) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Swiss Teddy
+20.03
+apa bisa di ulang step2 prakteknya
+Tiara Amanda Agustin
+20.04
+boleh di copy kak source code package json nya?
+Karis S
+20.04
+{
+  "name": "sesi4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
+ini package.json
+mokhamad azriel
+20.05
+Saya malah muncul node.js v22.14.0
+Yuki Resky Damanik
+20.05
+bisa mas thx
+Tiara Amanda Agustin
+20.05
+kalo package lock isinya apa kak?
+IchsanDafa
+20.05
+400
+Wilsen Grivin Mokodaser
+20.06
+npm error syscall write
+npm error errno -4083
+npm error EBADF: bad file descriptor, write
+npm error A complete log of this run can be found in: C:\Users\Wilsen Mokodaser\AppData\Local\npm-cache\_logs\2025-09-17T13_01_05_853Z-debug-0.log
+
+ada error waktu install express
+Indirwan Ihsan Hasibuan
+20.06
+mas ada error :  throw new Error(exports.GoogleAuthExceptionMessages.NO_ADC_FOUND);
+mokhamad azriel
+20.07
+Ku kira error ternyata blom kesimpan😁
+Ibnu Setiawan
+20.07
+xixixi
+Andreas Santoso
+20.07
+https://stackoverflow.com/questions/64633727/how-to-fix-running-scripts-is-disabled-on-this-system#64633728
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+hengQ
+20.08
+atau pakai command promt di windows lancar saja
+IchsanDafa
+20.08
+maaf ini untuk apa ya?
+Salam Budiarto
+20.08
+use gitbash juga oke
+Haris ais
+20.08
+klo error (node:36352) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+D:\WebData\www\hacktive8-course\Sesi-4\node_modules\google-auth-library\build\src\auth\googleauth.js:287
+        throw new Error(exports.GoogleAuthExceptionMessages.NO_ADC_FOUND);
+
+gmn kak?
+Muhammad Syaamil Muzhaffar
+20.08
+Aku juga mas pake Gitbash
+Haris ais
+20.09
+Node.js v22.9.0
+ok.. wait
+Nadia Amanda Febrianti
+20.09
+kalo mau ilangin warning tadi bisa gasih mas ?
+diterminal pas node index
+Mohamad Yuan Wahyu Pradana
+20.09
+stuck di Error: Could not load the default credentials.
+Nadia Amanda Febrianti
+20.10
+iya saya jg mas
+berarti selalu muncul ya
+Mohamad Yuan Wahyu Pradana
+20.10
+sudah import
+Asep Awaludin
+20.10
+di root jalan
+TopGadget@TopGadgetHQ MINGW64 ~
+$ node -v
+v22.19.0
+
+tapi di working folder ga detek
+TopGadget@TopGadgetHQ MINGW64 /d/projectapps/hacktiv8/Sesi4
+$ node -v
+bash: node: command not found
+mohon bantuannya
+IchsanDafa
+20.10
+error 503 "The model is overloaded. Please try again later."
+eza zae
+20.11
+pastikan file nya sudah disave ya teman-teman
+Denis Schuerman
+20.11
+klo tdak ada respon setelah di ketik node index, langsung keluar promt tidak muncul error
+Haris ais
+20.11
+nah... sering tuh.... overloaded
+Salam Budiarto
+20.11
+overload berati rate limit udah kena, pakai Gmail lain kak
+PTP Operations
+20.11
+Untuk rekan-rekan yang belum absen, jangan lupa mengisi absensi yaa: https://bit.ly/absenmajubarengai
+keep
+Disematkan
+Rizky Fahrureza
+20.12
+ohh pantes tadi ada pake api key lama kena bad requests wkwk, jadinya generate key baru
+Salam Budiarto
+20.12
+noted kak thankyou for new insight
+ade ari
+20.12
+hasil eksekusi yang benar gimana ya?
+malah trobel shoot pc penonton
+Salam Budiarto
+20.13
+sttt jgn begitu kak Ari, it's a free course, be a wisdom qaqa
+yudha merdeka
+20.13
+saya kena error ini trus :
+
+$ node index
+node:internal/modules/package_json_reader:266
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+Naufal Farraz Alghiffari
+20.13
+jalanin command node index mas kalo bener keluar outputnya
+Ibnu Setiawan
+20.14
+aku nambahin 
+"type": "module",
+di package.json, warningnya ilang hehe
+Rizky Fahrureza
+20.14
+@yudha
+
+itu belom install module nya, coba npm install @google/genai
+mokhamad azriel
+20.14
+Untuk di json kasih "start": "node index.js", ga kak
+Andreas Santoso
+20.14
+import 'dotenv/config';
+keep
+Disematkan
+Kurniawan
+20.14
+import dotenv/config nya ga ada
+Devin Septiandi
+20.14
+envnya blm di import itu mas
+Bagus Rizky
+20.14
+belom ada import "dotenv/config";
+mas
+Muhammad Syaamil Muzhaffar
+20.14
+Tambahin script "type": "module" pada pasckage.json, untuk menghilangkan warningnya
+Salam Budiarto
+20.15
+nanti fork aja punya kak mentor set api di .env aja
+Rizky Fahrureza
+20.15
+dotenv/config tambahin dlu, klo belom npm install dotenv/config
+Dodi Yarpika
+20.15
+pakai powershell keluar Set-ExecutionPolicy : Access to the registry key
+'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell' is denied. To change the execution
+policy for the default (LocalMachine) scope, start Windows PowerShell with the "Run as administrator" option. To
+change the execution policy for the current user, run "Set-ExecutionPolicy -Scope CurrentUser".
+At line:1 char:1
++ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (:) [Set-ExecutionPolicy], UnauthorizedAccessException
+    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.PowerShell.Commands.SetExecutionPolicyComma
+   nd, kanapa y?
+M. Almuhaimin
+20.15
+run administrator kak
+Achmad Hanafy
+20.16
+import 'dotenv/config';
+Bintang Akbar
+20.16
+dotenv
+Haris ais
+20.16
+import dotenv from "dotenv";
+
+dotenv.config();
+Ibnu Setiawan
+20.16
+import 'dotenv/config';
+Haris ais
+20.16
+copy itu
+Muhammad Marsa
+20.16
+wkw eoe
+Irsyad Tillah
+20.16
+import 'dotenv/config';
+Bagus Rizky
+20.16
+sabar mas untung :v
+Muhammad Syaamil Muzhaffar
+20.16
+import 'dotenv/config';
+Rizky Fahrureza
+20.16
+sabar sabar
+wkwk
+Egit Heri
+20.16
+gapapa mas sekalian buat belajar bareng. kalo mau langsung selesai nnti juga ada source codenya mungkin.
+Muhammad Marsa
+20.16
+suruh ngoding pake notepad aja
+M. Almuhaimin
+20.16
+notepad ++
+Mohamad Yuan Wahyu Pradana
+20.17
+kalau run node index tidak muncul apa2 gimana ka
+yudha merdeka
+20.17
+@Rizky Fahrureza sipp udah bisa makasih mas
+Rizal F Ferryadi
+20.20
+untuk version API keynya sesuai dengan login googlenya ya kak? berarti kalau kita sudah subs API keynya bakal ngikut yang subs kita?
+mokhamad azriel
+20.21
+Misalkan contentsnya diisi dengan buatkan kode nanti muncul ga kodenya KA.?
+Rizal F Ferryadi
+20.21
+yang berbayar kak maksudnya
+Bagus Rizky
+20.24
+copas aja.
+
+Halo, boleh minta tolong buatkan website landing page dengan basis HTML, CSS, dan JavaScript, di mana CSS-nya menggunakan Tailwind CSS untuk framework styling-nya.
+Haris ais
+20.24
+klo yg berbaayar, masih sering overloaded atau error 500 ga ya?
+Samsul Dev
+20.26
+bang, kok aku kena biaya yaa?
+aku plan nya tier 1
+M. Almuhaimin
+20.27
+share tips prompting yg tepat untuk it devs kak ?
+muflih Hawari
+20.27
+coba jalan kan code ny mas
+Aditya Mina
+20.27
+Error 503 model overload
+Achmad Hanafy
+20.28
+Aku sebelumnya pake gemini api langsung lewat rest api gk pernah kena model overload apa karna pake package
+Yaqubhadi01
+20.29
+sudah
+Salam Budiarto
+20.30
+back to pdf yuk, mulai oot ni audience ^_^
+Devin Septiandi
+20.30
+ka tolong jelasin tentang top k, top p sama temp ke output prompt dong
+Haris ais
+20.30
+untuk complex prompt, kenapa banyak yg mengguinakan format markdoiwn?
+Naufal Farraz Alghiffari
+20.31
+biar ga halu
+Muhammad Syaamil Muzhaffar
+20.32
+Mas belajar MCP Server juga ga?
+mokhamad azriel
+20.32
+Kaya kepintaran ai nya gitu iya. Bisa kita atur sendiri gitu ta.
+muflih Hawari
+20.34
+Jalanin code ny di situ ya mas?
+Andreas Santoso
+20.36
+https://ai.google.dev/gemini-api/docs/models/gemini
+keep
+Disematkan
+Haris ais
+20.38
+ok.. udah kejawab...
+mokhamad azriel
+20.39
+Bikin skripsi bisa.
+Andreas Santoso
+20.41
+Scalable deployments that require large volume, fast responses
+https://bit.ly/absenmajubarengai
+keep
+Disematkan
+muflih Hawari
+20.42
+mas ini ada rekaman ulang nya ga?
+Achmad Yani
+20.42
+ada
+tadi sudah diinfo sama Kak Andreas
+muflih Hawari
+20.46
+🙏🙏
+Ibnu Setiawan
+20.53
+xixixixi
+Ibnu Setiawan
+20.55
+const geminiModels = {
+    text: "gemini-2.5-flash-lite",
+    image: "gemini-2.5-flash",
+    audio: "gemini-2.5-flash",
+    document: "gemini-2.5-flash-lite",
+}
+Buan Gultom
+21.05
+pada mingkem..
+terpesona
+Bagus Rizky
+21.05
+mulai ngebul
+Muhammad Marsa
+21.05
+awkakw
+muflih Hawari
+21.06
+Nge lag² mas
+Sulung Emin
+21.07
+baru rame lagi tadi mah sepi wkwkw
+Achmad Yani
+21.07
+Fokus sama penjelasan Mas Andrew dahulu teman2
+Buan Gultom
+21.07
+ini andreas kalo cewek udah gw kawinin
+Bagus Rizky
+21.07
+buset
+muflih Hawari
+21.07
+mas buan bahaya
+Muhammad Marsa
+21.08
+iciboss
+Sulung Emin
+21.08
+penjelasannya terlalu mempesona ya bang buan hehehe..
+IchsanDafa
+21.08
+validate
+Achmad Yani
+21.08
+Luar biasa kalo pas didepan kelas ini
+murid sampai waw
+muflih Hawari
+21.09
+langsung ke golang aja mas
+M. Almuhaimin
+21.13
+gak pakai AI kak, untuk membuat guard clause ?
+muflih Hawari
+21.15
+siap² pusing guys
+Achmad Hanafy
+21.15
+Bisa jga pake gini
+const { message } = req?.body || {}
+Achmad Yani
+21.15
+Mas Andreas tidak minum2 dahulu
+hengQ
+21.15
+break dulu
+Sulung Emin
+21.16
+sambil ngupi ngupi dulu hehe..
+Qulud QL
+21.16
+Kak di saya dari awal terminal nya ga muncul
+muflih Hawari
+21.17
+berapa menit mas break ny?
+Achmad Yani
+21.17
+klik view di vscodenya
+klik terminal
+muflih Hawari
+21.17
+New terminal kak
+Naufal Farraz Alghiffari
+21.17
+ctrl + j
+muflih Hawari
+21.18
+habis itu mas?
+Muhammad Marsa
+21.18
+package main
+
+import (
+	"context"
+	"fmt"
+	"log"
+	"os"
+
+	"github.com/joho/godotenv"
+	"google.golang.org/genai"
+)
+
+func main() {
+
+	err := godotenv.Load()
+
+	if err != nil {
+		log.Fatal("Erro Load file env")
+	}
+
+	apiKey := os.Getenv("GEMINI_API_KEY")
+
+	if apiKey == "" {
+		log.Fatal("GEMINI_API_KEY is Null")
+	}
+
+	ctx := context.Background()
+
+	client, err := genai.NewClient(ctx, &genai.ClientConfig{
+		APIKey: apiKey,
+	})
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	result, err := client.Models.GenerateContent(
+		ctx,
+		"gemini-2.5-flash",
+		genai.Text("Explain how AI works in a few words"),
+		nil,
+	)
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println(result.Text())
+}
+
+
+gw dah bikin versi golangnya
+muflih Hawari
+21.18
+asiik main golang
+Muhammad Marsa
+21.18
+js ngantuk
+muflih Hawari
+21.19
+js mumet
+M. Almuhaimin
+21.19
+lebih simpel golang ya ?
+Achmad Hanafy
+21.20
+lebih gampang belajar js klo pemula
+Bintang Akbar
+21.20
+ctrl+`
+Achmad Yani
+21.20
+Gampang semua selama logicnya mateng
+asalkan niat belajarnya luar biasa
+mokhamad azriel
+21.21
+Pake jaksel.js bisa ga ka.?
+muflih Hawari
+21.21
+jaksel.js bahasa mana mas?
+Rizky Fahrureza
+21.21
+php aja dapet lambo
+muflih Hawari
+21.21
+php bisa beli ferari
+Achmad Yani
+21.22
+php dead
+wkwkwkwk
+Naufal Farraz Alghiffari
+21.22
+php full dollar
+mokhamad azriel
+21.22
+Jaksel script maksud
+muflih Hawari
+21.23
+gimana tuh mas jaksel script?
+Ibnu Setiawan
+21.25
+antek antek async
+M. Almuhaimin
+21.25
+oh, itu cacingan namanya :D
+Andreas Santoso
+21.26
+const geminiModels = {
+    text: "gemini-2.5-flash-lite",
+    image: "gemini-2.5-flash",
+    audio: "gemini-2.5-flash",
+    document: "gemini-2.5-flash-lite"
+};
+hengQ
+21.29
+ahay
+Ibnu Setiawan
+21.29
+xixixi
+Achmad Hanafy
+21.30
+path apinya ketinggalan
+Hans Gunawan07
+21.31
+Oiya routenya awoakwo
+Gaada route gimana mau dipanggil loh ya😹
+Karis S
+21.32
+bisa bagi code index.js mas andreas?
+Hans Gunawan07
+21.33
+Kenapa ga coba di insomnia/postman kak?
+Andreas Santoso
+21.34
+https://hoppscotch.io
+keep
+Disematkan
+mokhamad azriel
+21.35
+Kak coba lihat kode dari variabel const respon
+Egit Heri
+21.36
+kenapa pake proxscatch mas ?
+M. Almuhaimin
+21.37
+fixing error dengan AI, apakah lebih cepat dari manual kak ? atau bikin error makin banyak ?
+Bintang Akbar
+21.37
+klo json jadiin object messagenya
+M. Almuhaimin
+21.42
+ya kak
+Egit Heri
+21.46
+mas tadi fix errornya gimana. saya masih error pas di hoppscotch
+</head>
+<body>
+<pre>Cannot GET /generate-text</pre>
+</body>
+</html>
+Egit Heri
+21.48
+masih sama erornya mas
+bedanya jadi cannot POST
+coba saya restart dulu mas
+Egit Heri
+21.49
+aman mas terimakasih
+Yuki Resky Damanik
+21.50
+mas kalo errornya : Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Katrina Flomina
+21.51
+kk boleh minta codingan di index.js
+Achmad Yani
+21.51
+Jangan lupa di SS untuk upload bukti kehadiran pas isi quiz all
+Achmad Hanafy
+21.53
+app.post('/generate-text',async(req, res ) => {
+    const { message } = req?.body || {}
+    // Negative cases
+    if (!req?.body) {
+        res.status(400).json({message:"Payload shouldn't be empty"})
+        return;
+    }
+    if (typeof message !== 'string') {
+        res.status(400).json({message: "message at body should be a string"})
+        return
+    }
+
+    const response = await ai.models.generateContent({
+        contents: message,
+        model: geminiModels.text
+    });
+
+    res.status(200).json({
+        reply: response.text
+    })
+})
+Achmad Yani
+21.54
+di zip 1 folder
+kirim sini saja Kak Andreas
+Andreas Santoso
+21.55
+https://pastebin.com/HYZSRSh5
+index.js
+package.json --> https://pastebin.com/Zj685TcQ
+Achmad Yani
+21.56
+.env
+tadi isinya hanya
+gemini_api_key
+Andreas Santoso
+21.57
+https://pastebin.com/3mA7W09Z
+.env
